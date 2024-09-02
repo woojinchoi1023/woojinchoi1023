@@ -1,5 +1,3 @@
 # 안녕하세요 😁 우진입니다 🔥🔥🔥
 
-### 공부중인 언어
-- Python
-- Javascript
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=karinarang)](https://solved.ac/karinarang)
