@@ -1,7 +1,7 @@
 <div align="center">
 
 # 안녕하세요 😁 우진입니다 🔥🔥🔥
-🔭 I’m currently studying at SSAFY<br>👯 I’m looking to collaborate on web project<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning frontend<br>
+🔭 I’m currently learning frontend<br>
 
 
 # 💻 Tech Stack:
